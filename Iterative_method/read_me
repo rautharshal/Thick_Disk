@@ -1,0 +1,6 @@
+After running the command we get the deprojected stellar velocity dispersion.
+i> we calculate the scaleheight of the galaxy using all the parameters and the projected vel_disp.
+ii> From the star density file and the rotation curve we calculate the model of galaxy
+iii> We incline the model and convolve it with the beam of the telescope
+iv> We take the spectrum of the model and calculate the all three moments.
+v> We compare the mom-2 plot with the projected vdisp and iterate the method till we have less than 5% error

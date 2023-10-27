@@ -1,0 +1,15 @@
+#python sden.py N1156_10K_MOM0.FITS 124.73 127.557 36.5 265.7 0.0 200.0 -1 NGC\ 1156 test
+#python sden.py N1156_10K_MOM0.FITS 124.73 127.557 36.5 265.7 0.0 200.0 14 NGC\ 1156 test
+#
+#
+
+
+#python image_processing/vdisp_ifu/vdisp_prof_ifu.py image_processing/vdisp_ifu/NGC0551.Pipe3D.cube.fits 21.918797 37.183366 63.0 135 0.0 40.0 2.3 NGC\ 551    ### D 73 pa 140 inc 67
+#python image_processing/vdisp_ifu/vdisp_prof_ifu.py image_processing/vdisp_ifu/NGC0214.Pipe3D.cube.fits 10.366790 25.499441 42.0 60 0.0 40.0 2.3 NGC\ 214     ### D 64 pa 52 inc 56
+#python image_processing/vdisp_ifu/vdisp_prof_ifu.py image_processing/vdisp_ifu/NGC2410.Pipe3D.cube.fits 113.759417 32.822111 63.0 40 0.0 40.0 2.3 NGC\ 2410   ### D 64 pa 34 inc 76
+
+#python vdisp_prof_ifu.py NGC0551.co.de20_dil.mom2.fits 21.918797 37.183366  63.0 315 0.0 40.0 2.3 NGC\ 551
+#python vdisp_prof_ifu.py NGC2410.co.de20_dil.mom2.fits 113.759417 32.822111 63.0 217 0.0 40.0 2.3 NGC\ 2410
+
+python vdisp_prof_ifu.py NGC0551.co.de20_smo.mom0.fits 21.918797 37.183366 63.42 315 0.0 40.0 2.3 NGC 551 72 74.5 .01716
+#python vdisp_prof_ifu.py NGC2410.co.de20_smo.mom0.fits 113.759417 32.822111 68.26 217 0.0 40.0 2.3 NGC\ 2410 65.41 67.5 .01556

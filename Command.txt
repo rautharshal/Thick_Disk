@@ -1,0 +1,5 @@
+python final_auto.py mge_auto.txt
+python final_auto.py tempt.txt
+python final_auto.py r_s_file
+Can use anyone
+

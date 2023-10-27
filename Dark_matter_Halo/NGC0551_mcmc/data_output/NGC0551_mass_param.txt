@@ -1,0 +1,15 @@
+gas mass: median, up, down  10.477249865654779 10.66248635921531 10.241492431412702
+star mass: median, up, down  10.939850420858795 11.008431325708667 10.855701279776651
+dynamical mass from model: mean, up, down =  11.427996705798249 11.475860021559862 11.373999773673988
+dynamical mass from observation =  11.411904381697692
+helo mass from model: median, up, down =  11.178515223214644 11.223134434418334 11.129860248033667
+helo mass from observation =  11.149508299276597
+
+
+dark matter fraction from observation =  54.65173043891098
+dark matter fraction from model =  56.301312259486934
+
+
+
+
+chi^2_red  1.6653695286738825

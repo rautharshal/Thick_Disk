@@ -1,0 +1,2 @@
+#gals, dist[Mpc], idegs, xlim[arcsec], ylim[km/s], logMstar,IFU_points,QS,NA
+NGC0551,73.2,63.44,97,240,10.160,0,MX,nonA

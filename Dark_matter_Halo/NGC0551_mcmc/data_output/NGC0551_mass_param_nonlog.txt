@@ -1,0 +1,15 @@
+gas mass: 3.00e+10 + 1.60e+10 - 1.26e+10
+star mass:  8.71e+10 + 1.49e+10 - 1.53e+10
+dynamical mass from model:  2.68e+11 + 3.12e+10 - 3.13e+10
+dynamical mass from observation: 2.58e+11 
+helo mass from model: 1.51e+11 + 1.63e+10 - 1.60e+10
+helo mass from observation: 1.41e+11
+
+
+dark matter fraction from observation =  54.65173043891098
+dark matter fraction from model =  56.301312259486934
+
+
+
+
+chi^2_red  1.6653695286738825

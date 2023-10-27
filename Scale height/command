@@ -1,0 +1,3 @@
+#python script1.py ngc551_vdisp.npy 551_s_vdisp.txt y n551 72
+#python script1.py stack_11_sig.npy 551_s_vdisp_final.txt y n551 72
+python script1.py 551_isothermal.npy 551_s_vdisp_iso.txt y n551 72  
